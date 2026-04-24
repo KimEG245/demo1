@@ -17,7 +17,7 @@ public class Demo1Application {
         return a + b;
     }
 
-    public String getStatus() {
+    public String getStatus3() {
         return "Application is running";
     }
 
