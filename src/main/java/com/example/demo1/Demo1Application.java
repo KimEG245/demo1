@@ -28,4 +28,7 @@ public class Demo1Application {
     public String getA() {
         return "A";
     }
+    public String getC() {
+        return "C";
+    }
 }
